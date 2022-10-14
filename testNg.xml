@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite thread-count="1" verbose="1" name="Starbucks Suite">
+	<parameter name="driversPath" value="src\\test\\resources\\drivers\\"/>
+	<test name="TCaramel Macchiato has 200 calories">
+		<classes>
+			<class name="testCases.TestCase1" />
+		</classes>
+	</test>
+	<test name="Stores from list are correct structured">
+		<classes>
+			<class name="testCases." />
+		</classes>
+	</test>
+</suite>
