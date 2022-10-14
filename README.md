@@ -1,1 +1,1 @@
-# automation_training_pom_exercise
+Test Automation project for Automation Training - Module POM & Page Factory
